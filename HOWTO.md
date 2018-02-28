@@ -1,6 +1,8 @@
 # Install Instructions
 
-curl => "sudo apt install curl"
+updates => `sudo apt update && sudo apt -y upgrade`
+
+curl => `sudo apt install curl`
 
 buld-essential & libssl-dev => `sudo apt install build-essential libssl-dev`
 
