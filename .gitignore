@@ -1,1 +1,7 @@
 node_modules/
+
+# Raw data zip
+playerData.zip
+
+# Data
+data/
