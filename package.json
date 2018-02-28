@@ -1,0 +1,20 @@
+{
+  "name": "bp-bigdata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "download-file": "^0.1.5",
+    "html-to-json": "^0.6.0",
+    "html2json": "^1.0.2",
+    "json2csv": "^4.0.0",
+    "snekfetch": "^4.0.0-rc.0",
+    "unzip": "^0.1.11"
+  }
+}
