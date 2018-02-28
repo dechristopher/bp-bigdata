@@ -1,0 +1,14 @@
+# Cookies for domains related to kaggle.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://www.kaggle.com/pablote/nba-enhanced-stats
+#
+.kaggle.com	TRUE	/	FALSE	1582817210	_ga	GA1.2.1784657520.1507204628
+.kaggle.com	TRUE	/	FALSE	2150845175	intercom-id-koj6gxx6	6da52a8a-0bf9-4356-9571-fa8084dca554
+www.kaggle.com	FALSE	/	TRUE	1547230619	ai_user	ExkEU|2018-01-11T18:16:59.402Z
+www.kaggle.com	FALSE	/	TRUE	0	__RequestVerificationToken	iXJawISIKi5iEQxnMXT7t3ftMNiFEPbVqEaFZqdirVFK4jsHOa3PZem9x-26krM26DGjicmzGCOfWhqiOKxEnV7FnF81
+.www.kaggle.com	TRUE	/	FALSE	0	ARRAffinity	850964d527ae4f77979d965dcf2360c87a248a36e2b9d25815e152ed532084df
+.kaggle.com	TRUE	/	FALSE	1519831610	_gid	GA1.2.740176331.1519745173
+.kaggle.com	TRUE	/	TRUE	1582817180.546778	.ASPXAUTH	E95FF911624AE3A1B59EE24284404A5F5A11BC7EFF53547D4AB2198C5A6EC0FF5C304807607C764C5F1556E0F52C1693E2D61628B41A87A8ECB4D42A3BAF4DACB26CCD2F46A93C3582A8B3878A4D198B4A324985
+.kaggle.com	TRUE	/	FALSE	1551285211	intercom-lou-koj6gxx6	1
+www.kaggle.com	FALSE	/	TRUE	1519747010	ai_session	Bo+1H|1519745174849|1519745210614.7
+.kaggle.com	TRUE	/	FALSE	1520350011	intercom-session-koj6gxx6	Z0kzSXVaVnBTWmtORjM2OXhsc3pJU3NRN25nRkgwSzArbjVmZkM3NGxSSVJybmpkVldrZzJDWHdtYXBMSkkzdy0tcGR3akRuOGVhNzZ2aVpMSGpzQitndz09--87f3612ca4a0309b048a06d1bceb54e54905faa3
