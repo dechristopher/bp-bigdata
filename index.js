@@ -16,7 +16,6 @@ const json2csv = require('json2csv').parse;
 const fields = ['name', 'points', 'assists', 'turnovers', 'rebounds'];
 const opts = { fields };
 
-
 // Custom Variables
 const { name, version } = require('./package.json');
 
